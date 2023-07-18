@@ -6,10 +6,9 @@
 ###### H6 header
 
 
-![Image of kitten sitting on a tree stump in the forest](https://cdn.pixabay.com/photo/2017/02/20/18/03/cat-2083492_1280.jpg)
+## Image ![Image of white rabbit sitting in grass](https://images.pexels.com/photos/3828097/pexels-photo-3828097.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
 
-
-# Code Example
+## Code Example
 ```
 const groceries = ['apples', 'oranges', 'bandaids', 'ground beef', 'circus tent', 'new shoes'];
 const INDENT = 2;
@@ -21,3 +20,9 @@ for(grocery of groceries){
 };
 ```
 
+## Task List
+- [ ] Task One
+- [ ] Task Two
+- [ ] Task Three
+- [ ] Task Four
+- [ ] Final Task
