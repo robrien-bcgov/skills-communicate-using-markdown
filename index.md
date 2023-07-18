@@ -9,7 +9,7 @@
 ## Image ![Image of white rabbit sitting in grass](https://images.pexels.com/photos/3828097/pexels-photo-3828097.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
 
 ## Code Example
-```
+```javascript
 const groceries = ['apples', 'oranges', 'bandaids', 'ground beef', 'circus tent', 'new shoes'];
 const INDENT = 2;
 const print = (itemToPrint) => JSON.stringify(itemToPrint, null, INDENT);
@@ -21,8 +21,8 @@ for(grocery of groceries){
 ```
 
 ## Task List
-- [ ] Task One
-- [ ] Task Two
-- [ ] Task Three
-- [ ] Task Four
-- [ ] Final Task
+- [ ]  Task One
+- [ ]  Task Two
+- [ ]  Task Three
+- [ ]  Task Four
+- [ ]  Final Task
